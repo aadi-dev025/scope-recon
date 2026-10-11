@@ -1,0 +1,11 @@
+{
+  "program": "example-vdp",
+  "in_scope": [
+    "example.com",
+    "*.example.com"
+  ],
+  "out_of_scope": [
+    "blog.example.com",
+    "legacy.example.com"
+  ]
+}
